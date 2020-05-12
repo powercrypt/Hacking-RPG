@@ -235,8 +235,8 @@ Encrypt your Data (Delete Logs)
 
 
         
-Application Software
-Operating Systems
+*Application Software
+*Operating Systems
 Hardware Design
 Computer Repair
 Research

@@ -73,13 +73,13 @@ System Types
 * Military
 * Academic
 * Administrative
-* Accounting Systems
+* Accounting
 * Banking
 * News
 * Large Business
 * Medium Business
 * Small Business
-* Research and Development
+* Research
 * Private System
 * Search Engines
 * Social Networks
@@ -235,7 +235,13 @@ Scenarios
   * Hacking
   * Cracking
   * Reverse Engineering
+  
+* Run Program (Spawn Shell)
 
+  * Application Software
+  * Research
+  * Administration
+          
 * Find Data (Spawn Shell)
 
   * Application Software

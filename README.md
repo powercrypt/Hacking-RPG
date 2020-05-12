@@ -2,19 +2,19 @@
 The ultimate role playing game for hackers.
 
 
-Research Target (Start)
+* Research Target (Start)
 
         Research        
         Scrounging
         Sneaking
 
-Open WiFi (Research Target)
+* Open WiFi (Research Target)
 
         Application Software 
         Operating Systems
         Networks
 
-Use A Proxy (Bot Net)
+* Use A Proxy (Bot Net)
 
         Application Software
         Operating Systems
@@ -22,7 +22,7 @@ Use A Proxy (Bot Net)
         Networks
         Encryption
 
-Vulnerability Scan (Proxy / WiFi)
+* Vulnerability Scan (Proxy / WiFi)
 
         Operating Systems        
         Security
@@ -32,7 +32,7 @@ Vulnerability Scan (Proxy / WiFi)
         Hacking
         Bug Hunting
 
-Code the Exploit (Vuln. Scan)
+* Code the Exploit (Vuln. Scan)
 
         Operating Systems
         Security
@@ -41,7 +41,7 @@ Code the Exploit (Vuln. Scan)
         Cracking
         Reverse Engineering
 
-Spawn Shell (Exploit / Trojan / Two Factor Auth)
+* Spawn Shell (Exploit / Trojan / Two Factor Auth)
 
         Operating Systems
         Administration
@@ -49,54 +49,54 @@ Spawn Shell (Exploit / Trojan / Two Factor Auth)
         Networking        
         Hacking
 
-Stake Out Location (Research Target)
+* Stake Out Location (Research Target)
 
         Sneaking
         Scrounging
         Security Systems
 
-Stalk Employees (Stake Out)
+* Stalk Employees (Stake Out)
 
         Sneaking
         Shoulder Surfing
         Scrounging
         Social Engineering
 
-Offline Meetup (Stalk Employees)
+* Offline Meetup (Stalk Employees)
 
         Social Engineering
         False Identity
         Shoulder Surfing
         Pick Pocket
 
-Trojan (Offline Meetup)
+* Trojan (Offline Meetup)
 
         Security
         Programming
         Networking
         Hacking
 
-Impersonate Employee (Stakeout Location)
+* Impersonate Employee (Stakeout Location)
 
         Social Engineering
         False Identity
         Forgery        
 
-Security Systems (Stake Out Location)
+* Security Systems (Stake Out Location)
 
         Pick Locks
         Electronics
         Forgery
         Cracking
 
-Physical Access (Security Systems / Impersonate Employee)
+* Physical Access (Security Systems / Impersonate Employee)
 
         Operating Systems
         Hardware Design
         Administration
         Security
 
-Two Factor Authentication (Physical Access)
+* Two Factor Authentication (Physical Access)
 
         Operating Systems
         Hardware Design
@@ -105,7 +105,7 @@ Two Factor Authentication (Physical Access)
         Hacking
         Cracking
 
-Install Malware (Defeat Anti Virus)
+* Install Malware (Defeat Anti Virus)
 
         Operating Systems
         Security
@@ -114,7 +114,7 @@ Install Malware (Defeat Anti Virus)
         Machine Code
         Hacking
         
-Bypass Firewalls (Spawn Shell)
+* Bypass Firewalls (Spawn Shell)
 
         Operating Systems
         Administration
@@ -123,7 +123,7 @@ Bypass Firewalls (Spawn Shell)
         Hacking
         Cracking
 
-Root (Install Malware)
+* Root (Install Malware)
 
         Operating Systems
         Administration
@@ -132,13 +132,13 @@ Root (Install Malware)
         Networks
         Hacking
 
-Add to Botnet (Root)
+* Add to Botnet (Root)
 
         Administration
         Networks
         Hacking
 
-Defeat Anti Virus (Bypass Firewall)
+* Defeat Anti Virus (Bypass Firewall)
 
         Operating Systems
         Administration
@@ -148,7 +148,7 @@ Defeat Anti Virus (Bypass Firewall)
         Reverse Engineering
 
 
-Find Data (Spawn Shell)
+* Find Data (Spawn Shell)
 
         Application Software
         Research
@@ -158,21 +158,21 @@ Find Data (Spawn Shell)
         Encryption
 
 
-Recover Data (Spawn Shell)
+* Recover Data (Spawn Shell)
 
         Hardware Design
         Databases
         Encryption
         Forensics
 
-Steal Data (Find Data)
+* Steal Data (Find Data)
 
         Application Software
         Databases
         Encryption
         Cracking
 
-Edit Data (Steal Data)
+* Edit Data (Steal Data)
 
         Application Software
         Administration
@@ -180,7 +180,7 @@ Edit Data (Steal Data)
         Algorithms
         Encryption
 
-Crack Credentials (Steal Data)
+* Crack Credentials (Steal Data)
 
         Hardware Design
         Security
@@ -189,14 +189,14 @@ Crack Credentials (Steal Data)
         Cracking
         Reverse Engineering
        
-Dump Personal Data (Find Data)
+* Dump Personal Data (Find Data)
 
         Application Software
         Research
         Databases
 
 
-Transfer Funds (Dump Personal Data)
+* Transfer Funds (Dump Personal Data)
 
     Security
     Social Engineering
@@ -204,20 +204,20 @@ Transfer Funds (Dump Personal Data)
     Forgery
 
 
-DoS Attack (Bot Net)
+* DoS Attack (Bot Net)
 
         Programming
         Algorithms
         Networks
         Hacking
 
-Crash/Vandalize System (Spawn Shell)
+* Crash/Vandalize System (Spawn Shell)
 
         Programming
         Machine Code
         Hacking
 
-Delete Logs (Spawn Shell)
+* Delete Logs (Spawn Shell)
 
         Application Software
         Operating Systems
@@ -226,7 +226,7 @@ Delete Logs (Spawn Shell)
         Hacking
         Forensics
 
-Encrypt your Data (Delete Logs)
+* Encrypt your Data (Delete Logs)
 
         Administration
         Databases

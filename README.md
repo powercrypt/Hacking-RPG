@@ -144,7 +144,7 @@ Scenarios
 
   * Sneaking
   * Scrounging
-  * Security Systems
+  * Security
 
 * Stalk Employees (Stake Out)
 

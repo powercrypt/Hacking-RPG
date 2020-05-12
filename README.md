@@ -1,6 +1,63 @@
 # Hacking-RPG
 The ultimate role playing game for hackers.
 
+# Rules
+
+To make your charater roll 1d6 once each hacking attribute, you can reroll your character but you have to reroll every hacking attribute if you do.
+
+When you start a scenario you have all of the relavent points available to you.  
+
+The GMs job is to assign a difficulty score for the scenario, depending on the type of server.  
+
+You can choose what scenario you want to run, but you have to have the prerequisites which are in parenthesis next to the name of every scenario.
+
+You decide which of the allowable attributes to use, and roll two dice to begin a scenario, yes just like street craps.
+
+You score a point on the system if you roll 7 or 11. 
+
+If a 2, 12, or 3 come up you lose that round. 
+
+If you lose a round erase one of your points in the attribute you used.
+
+You can stop if you want or roll another number that becomes your point number.  
+
+Keep rolling until you hit your magic point number again, in which case you win. 
+
+Or, if you roll a 7 before you hit your point number, then you lose a dot in the attribute.
+
+For every failure, you lose a point in paranoia, but can still try again.  
+
+If your paranoia drops to zero you have to run, but if you make it to the next scenario your paranoia will recharge.
+
+If you are forced to run you can't go back to the system you were on. 
+
+If you run you have as many chances to escape as your run score. But your run score never recharges.
+
+If you fail to run its GAME OVER.
+
+After you root a system you own it, installing malware and controlling it in your bot net.  This will help you on your next mission.
+
+On your next mission your main hacker attributes go up to their normal levels, and may optionally be awarded 1pt XP.
+
+You can steal money from hacking to upgrade your computer and internet connection.
+
+Servers also have interesting information and clients will pay you to access that information.
+
+Hacking on a phone requires 2 extra successes for every scenario
+Hacking on a tablet requires 1 extra successes for every scenario
+Hacking on a personal computer requires nothing extra
+Hacking on a server requires 1 less successes for every scenario
+Hacking on a mainframe requires 2 less successes for every scenario
+
+An open system gets two automatic successes that can be used once every mission
+A vulnerable system gets one automatic success that can be used once every mission
+A secure system gets no bonus
+
+A slow connection requires 1 extra success every scenario
+A regular connection doesn't change anything
+A high speed connection gets 1 automatic successes every scenario
+A dedicated connection gets 2 automatic successes every scenario
+
 
 # Hacking Skills
 
@@ -38,45 +95,25 @@ The ultimate role playing game for hackers.
 # System Types
 
 * Government
-
 * Police
-
 * Military
-
 * Academic
-
 * Administrative
-
 * Accounting Systems
-
 * Banking
-
 * News
-
 * Large Business
-
 * Medium Business
-
 * Small Business
-
 * Research and Development
-
 * Private System
-
 * Search Engines
-
 * Social Networks
-
 * Email Servers
-
 * Entertainment
-
 * Games
-
 * Data Servers
-
 * Honey Pots
-
 
 # Scenarios
 

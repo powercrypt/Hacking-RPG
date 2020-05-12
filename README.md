@@ -221,7 +221,7 @@ Scenarios
   * Networks
   * Hacking
 
-* Join Botnet (Root)
+* Join Botnet (Install Malware)
 
   * Administration
   * Networks

@@ -9,11 +9,9 @@ You score a point on the system if you roll 7 or 11. If a 2, 12, or 3 come up yo
 
 If you lose a round erase one of your points in the attribute you used.
 
-You can stop if you want or roll another number that becomes your point number. Keep rolling until you hit your magic point number again, in which case you win. Or, if you roll a 7 before you hit your point number, then you lose a dot in the attribute.
+You can stop if you want or roll another number that becomes your point number. Keep rolling until you hit your magic point number again, in which case you win. Or, if you roll a 7 before you hit your point number, then you lose a dot in the attribute.  Each hacking attribute can only succeed once.
 
-For every failure, you lose a point in paranoia, but can still try again. If your paranoia drops to zero you have to run, but if you make it to the next scenario your paranoia will recharge.
-
-If you are forced to run you can't go back to the system you were on. If you run you have as many chances to escape as your run score. But your run score never recharges. If you fail to run its GAME OVER.
+For every failure, you lose a point in paranoia, but can still try again. If your paranoia drops to zero you have to run, but if you make it to the next scenario your paranoia will recharge. If you are forced to run you can't go back to the system you were on. If you run you have as many chances to escape as your run score. But your run score never recharges. If you fail to run its GAME OVER.
 
 After you root a system you own it, installing malware and controlling it in your bot net. This will help you on your next mission. On your next mission your main hacker attributes go up to their normal levels, and may optionally be awarded 1pt XP.
 

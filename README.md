@@ -4,9 +4,9 @@ The ultimate role playing game for hackers.
 
 * Research Target (Start)
 
-        Research        
-        Scrounging
-        Sneaking
+        *Research        
+        *Scrounging
+        *Sneaking
 
 * Open WiFi (Research Target)
 

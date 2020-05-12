@@ -43,20 +43,20 @@ You can steal money from hacking to upgrade your computer and internet connectio
 
 Servers also have interesting information and clients will pay you to access that information.
 
-Hacking on a phone requires 2 extra successes for every scenario
-Hacking on a tablet requires 1 extra successes for every scenario
-Hacking on a personal computer requires nothing extra
-Hacking on a server requires 1 less successes for every scenario
-Hacking on a mainframe requires 2 less successes for every scenario
+       Hacking on a phone requires 2 extra successes for every scenario
+       Hacking on a tablet requires 1 extra successes for every scenario
+       Hacking on a personal computer requires nothing extra          
+       Hacking on a server requires 1 less successes for every scenario
+       Hacking on a mainframe requires 2 less successes for every scenario
 
-An open system gets two automatic successes that can be used once every mission
-A vulnerable system gets one automatic success that can be used once every mission
-A secure system gets no bonus
+       An open system gets two automatic successes that can be used once every mission
+       A vulnerable system gets one automatic success that can be used once every mission
+       A secure system gets no bonus
 
-A slow connection requires 1 extra success every scenario
-A regular connection doesn't change anything
-A high speed connection gets 1 automatic successes every scenario
-A dedicated connection gets 2 automatic successes every scenario
+       A slow connection requires 1 extra success every scenario
+       A regular connection doesn't change anything
+       A high speed connection gets 1 automatic successes every scenario
+       A dedicated connection gets 2 automatic successes every scenario
 
 
 # Hacking Skills

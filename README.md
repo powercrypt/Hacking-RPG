@@ -2,6 +2,86 @@
 The ultimate role playing game for hackers.
 
 
+# Hacking Skills
+
+* Administration
+* Algorithms
+* Application Software
+* Bug Hunting
+* Computer Repair
+* Cracking
+* Databases
+* Debugging
+* Electronics
+* Encryption
+* False Identity
+* Forensics
+* Forgery
+* Hacking
+* Hardware Design
+* Lock Picking
+* Machine Code
+* Networks
+* Operating Systems
+* Pick Pocket
+* Programming
+* Research
+* Reverse Engineering
+* Scrounging
+* Security
+* Shoulder Surfing
+* Sneaking
+* Social Engineering
+* Paranoia
+* Run
+
+# System Types
+
+* System types
+
+* Government
+
+* Police
+
+* Military
+
+* Academic
+
+* Administrative
+
+* Accounting Systems
+
+* Banking
+
+* News
+
+* Large Business
+
+* Medium Business
+
+* Small Business
+
+* Research and Development
+
+* Private System
+
+* Search Engines
+
+* Social Networks
+
+* Email Servers
+
+* Entertainment
+
+* Games
+
+* Data Servers
+
+* Honey Pots
+
+
+# Scenarios
+
 * Research Target (Start)
 
         *Research        
@@ -123,7 +203,7 @@ The ultimate role playing game for hackers.
         *Hacking
         *Cracking
 
-* Root (Install Malware)
+* Root (Crack Credentials)
 
         *Operating Systems
         *Administration
@@ -234,36 +314,6 @@ The ultimate role playing game for hackers.
         *Encryption
 
 
-* Administration
-* Algorithms
-* Application Software
-* Bug Hunting
-* Computer Repair
-* Cracking
-* Databases
-* Debugging
-* Electronics
-* Encryption
-* False Identity
-* Forensics
-* Forgery
-* Hacking
-* Hardware Design
-* Lock Picking
-* Machine Code
-* Networks
-* Operating Systems
-* Pick Pocket
-* Programming
-* Research
-* Reverse Engineering
-* Scrounging
-* Security
-* Shoulder Surfing
-* Sneaking
-* Social Engineering
-* Paranoia
-* Run
 
 Roll 1d6 once for each hacking attribute, you can reroll your character but you have to reroll every hacking attribute if you do. When you start a scenario you have all of the relavent points available to you. The game masters job is to assign a difficulty score for the scenario which depends on the type of server.  
 

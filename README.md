@@ -1,7 +1,8 @@
-#Hacking-RPG
+# Hacking-RPG
 The ultimate role playing game for hackers.
 
 Rules
+
 To make your character roll 1d6 once each hacking attribute, you can reroll your character but you have to reroll every hacking attribute if you do. When you start a scenario you have all of the relevant points available to you.The GMs job is to assign a difficulty score for the scenario, depending on the type of server. You can choose what scenario you want to run, but you have to have the prerequisites which are in parenthesis next to the name of every scenario. You decide which of the allowable attributes to use, and roll two dice to begin a scenario, yes just like street craps.
 
 You score a point on the system if you roll 7 or 11. If a 2, 12, or 3 come up you lose that round.
@@ -35,57 +36,60 @@ You can steal money from hacking to upgrade your computer and internet connectio
 
 Hacking Skills
 
-Administration
-Algorithms
-Application Software
-Bug Hunting
-Computer Repair
-Cracking
-Databases
-Debugging
-Electronics
-Encryption
-False Identity
-Forensics
-Forgery
-Hacking
-Hardware Design
-Lock Picking
-Machine Code
-Networks
-Operating Systems
-Pick Pocket
-Programming
-Research
-Reverse Engineering
-Scrounging
-Security
-Shoulder Surfing
-Sneaking
-Social Engineering
-Paranoia
-Run
+* Administration
+* Algorithms
+* Application Software
+* Bug Hunting
+* Computer Repair
+* Cracking
+* Databases
+* Debugging
+* Electronics
+* Encryption
+* False Identity
+* Forensics
+* Forgery
+* Hacking
+* Hardware Design
+* Lock Picking
+* Machine Code
+* Networks
+* Operating Systems
+* Pick Pocket
+* Programming
+* Research
+* Reverse Engineering
+* Scrounging
+* Security
+* Shoulder Surfing
+* Sneaking
+* Social Engineering
+* Paranoia
+* Run
+
+
 System Types
-Government
-Police
-Military
-Academic
-Administrative
-Accounting Systems
-Banking
-News
-Large Business
-Medium Business
-Small Business
-Research and Development
-Private System
-Search Engines
-Social Networks
-Email Servers
-Entertainment
-Games
-Data Servers
-Honey Pots
+
+* Government
+* Police
+* Military
+* Academic
+* Administrative
+* Accounting Systems
+* Banking
+* News
+* Large Business
+* Medium Business
+* Small Business
+* Research and Development
+* Private System
+* Search Engines
+* Social Networks
+* Email Servers
+* Entertainment
+* Games
+* Data Servers
+* Honey Pots
 
 Scenarios
 

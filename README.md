@@ -196,12 +196,12 @@ The ultimate role playing game for hackers.
         Databases
 
 
-Transfer Funds (Dump Personal Data)
+* Transfer Funds (Dump Personal Data)
 
-    Security
-    Social Engineering
-    False Identity
-    Forgery
+        Security
+        Social Engineering
+        False Identity
+        Forgery
 
 
 * DoS Attack (Bot Net)

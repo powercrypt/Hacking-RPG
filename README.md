@@ -37,8 +37,6 @@ The ultimate role playing game for hackers.
 
 # System Types
 
-* System types
-
 * Government
 
 * Police

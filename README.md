@@ -234,6 +234,33 @@ Encrypt your Data (Delete Logs)
         Encryption
 
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+* Administration
+* Algorithms
+* Application Software
+* Bug Hunting
+* Computer Repair
+* Cracking
+* Databases
+* Debugging
+* Electronics
+* Encryption
+* False Identity
+* Forensics
+* Forgery
+* Hacking
+* Hardware Design
+* Lock Picking
+* Machine Code
+* Networks
+* Operating Systems
+* Pick Pocket
+* Programming
+* Research
+* Reverse Engineering
+* Scrounging
+* Security
+* Shoulder Surfing
+* Sneaking
+* Social Engineering
+* Paranoia
+* Run

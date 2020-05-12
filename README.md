@@ -34,7 +34,7 @@ You can steal money from hacking to upgrade your computer and internet connectio
       A high speed connection gets 1 automatic successes every scenario
       A dedicated connection gets 2 automatic successes every scenario
 
-Hacking Skills
+Hacking Attributes
 
 * Administration
 * Algorithms

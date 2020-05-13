@@ -9,9 +9,9 @@ You score a point on the system if you roll 7 or 11. If a 2, 12, or 3 come up yo
 
 Keep rolling until you hit your magic point number again, in which case you win. Or, if you roll a 7 before you hit your point number, then you lose. After the roll erase one point in the attribute you were using, and for every failure you also lose a point in paranoia. 
 
-If your paranoia drops to zero you have to run, but if you make it to the next scenario your paranoia will recharge with newly boosted confidence. If however you are forced to run you won't be able to go back to the system you were on. If you fail to run you permanetely lose one dot of run points (None if you succeed). However, your run score never recharges. If you fail to run don't have anymore points its GAME OVER
+If your paranoia drops to zero you have to run, but if you make it to the next scenario your paranoia will recharge with newly boosted confidence. If however you are forced to run you won't be able to go back to the system you were on. You permanetely lose one dot of your run attribute every time you fail to run (None if you succeed). However, your run score never recharge, and if you don't have any run points its GAME OVER.
 
-After you root a system you are awarded 1d6 experience point that you can spend on your attributes.  Installing malware creates a backdoor to the system after the mission ends, allowing you to watch logs of what happens on the network. Each server you have in your botnet acts as a proxy, giving you an extra dot in paranoia. You can transfer money to upgrade your computer and internet connection. Servers also have interesting information that clients will be happy to pay you for.
+After you root a system you are awarded 1d6 experience point that you can spend on your attributes.  Installing malware allows you to access the system after the mission is over. Each server you have in your botnet acts as a proxy, giving you an extra dot in paranoia and the abillity to shut down systems with a DOS attack. You can also transfer money to upgrade your computer and internet connection after the mission is over. Servers also have interesting information that clients will be happy to pay you for.
 
       Hacking on a phone requires 2 extra successes for every scenario
       Hacking on a tablet requires 1 extra successes for every scenario

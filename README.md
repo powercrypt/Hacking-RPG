@@ -31,7 +31,7 @@ After you root a system you are awarded 1d6 experience point that you can spend 
 Hacking Attributes
 
 * Administration (Basic network system administation)
-* Algorithms (Solutions to programming problems)
+* Algorithms (Finding solutions to programming problems)
 * Applications (End user software)
 * Bugs (Finding security vulnerabilities in the network)
 * Repair (Patching vulnerabilities)

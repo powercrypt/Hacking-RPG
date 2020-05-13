@@ -30,37 +30,36 @@ After you root a system you are awarded 1d6 experience point that you can spend 
 
 Hacking Attributes
 
-* Administration
-* Algorithms
-* Applications
-* Bugs
-* Repair
-* Cracking
-* Databases
-* Debugging
-* Electronics
-* Encryption
-* Stolen Identity
-* Forensics
-* Forgery
-* Hacking
-* Hardware
-* Lock Picking
-* Machine Code
-* Networks
-* Operating Systems
-* Theft
-* Programming
-* Research
-* Reverse Engineering
-* Scrounging
-* Security
-* Shoulder Surfing
-* Sneaking
-* Social Engineering
-* Paranoia
-* Run
-
+* Administration - Basic system administation in the network.
+* Algorithms - Solutions to programming problems.
+* Applications - End user software
+* Bugs - Finding security vulnerabilities in the network.
+* Repair - Patching vulnerabilities
+* Cracking - Bypassing electronic security
+* Databases - Accessing information stored on the network.
+* Debugging - Simulating potential security bugs.
+* Electronics - Unerstanding electronic security system.
+* Encryption - 
+* Stolen Identity - Posing as an employe.
+* Forensics - Recovering deleted data.
+* Forgery - Creating false documents for a hack.
+* Hacking - Breaking into a computer network.
+* Hardware - Using the physical components of a computer 
+* Lock Picking - Manipulating locks to gain entry.
+* Machine Code - Understanding CPU instructions and memory addresses,
+* Networks - Snooping on internet protocols. 
+* Operating Systems - Knowledge of multiple operating systems.
+* Theft - Stealing small things like phones and disks.
+* Programming - Writing custom software.
+* Research - Time spent looking for answers online.
+* Reverse Engineering - Exposing the source code of a program.
+* Scrounging - Looking for information in the junk pile.
+* Security - Knowledge of common security flaws.
+* Shoulder Surfing - Glimpsing an employee's pin or password.
+* Sneaking - Not being noticed by security.
+* Social Engineering - Convincing people of your cover.
+* Paranoia - Gives you a chance to run before its too late!
+* Run - The best tool in your arsenal.
 
 System Types
 

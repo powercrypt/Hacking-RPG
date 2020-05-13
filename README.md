@@ -5,17 +5,13 @@ Rules
 
 To make your character you will need to roll 1d6 once for each hacking attribute, you can reroll your character but you have to reroll every hacking attribute if you do. When you start a scenario you have all of the relevant points available to you.The GMs job is to assign a difficulty score for the scenario, depending on the type of server. You can choose what scenario you want to run, but you have to have the prerequisites which are in parenthesis next to the name of every scenario. You decide which of the allowable attributes to use, and roll two dice to begin a scenario, yes just like street craps.
 
-You score a point on the system if you roll 7 or 11. If a 2, 12, or 3 come up you lose that round.
+You score a point on the system if you roll 7 or 11. If a 2, 12, or 3 come up you lose that round. If that doesn't happen roll the ice again and get another number that becomes your point number. 
 
-If you lose a round erase one of your points in the attribute you used.
+Keep rolling until you hit your magic point number again, in which case you win. Or, if you roll a 7 before you hit your point number, then you lose. After the roll is decided you erase one point in the attribute you were using, and for every failure you also lose a point in paranoia. 
 
-You can stop if you want or roll another number that becomes your point number. Keep rolling until you hit your magic point number again, in which case you win. Or, if you roll a 7 before you hit your point number, then you lose a dot in the attribute.  Each hacking attribute can only succeed once.
+If your paranoia drops to zero you have to run, but if you make it to the next scenario your paranoia will recharge with newly boosted confidence. If however you are forced to run you won't be able to go back to the system you were on. If you fail to run you permanetely lose one dot of run points (None if you succeed). However, your run score never recharges. If you fail to run don't have anymore points its GAME OVER
 
-For every failure, you lose a point in paranoia, but can still try again. If your paranoia drops to zero you have to run, but if you make it to the next scenario your paranoia will recharge. If you are forced to run you can't go back to the system you were on. If you run you have as many chances to escape as your run score. But your run score never recharges. If you fail to run its GAME OVER.
-
-After you root a system you own it, installing malware and controlling it in your bot net. This will help you on your next mission. On your next mission your main hacker attributes go up to their normal levels, and may optionally be awarded 1pt XP.
-
-You can steal money from hacking to upgrade your computer and internet connection. Servers also have interesting information and clients will pay you to access that information.
+After you root a system you are awarded 1d6 experience point that you can spend on your attributes.  Installing malware creates a backdoor to the system after the mission ends, allowing you to watch logs of what happens on the network. Each server you have in your botnet acts as a proxy, giving you an extra dot in paranoia. You can transfer money to upgrade your computer and internet connection. Servers also have interesting information that clients will be happy to pay you for.
 
       Hacking on a phone requires 2 extra successes for every scenario
       Hacking on a tablet requires 1 extra successes for every scenario
@@ -36,24 +32,24 @@ Hacking Attributes
 
 * Administration
 * Algorithms
-* Application Software
-* Bug Hunting
-* Computer Repair
+* Applications
+* Bugs
+* Repair
 * Cracking
 * Databases
 * Debugging
 * Electronics
 * Encryption
-* False Identity
+* Stolen Identity
 * Forensics
 * Forgery
 * Hacking
-* Hardware Design
+* Hardware
 * Lock Picking
 * Machine Code
 * Networks
 * Operating Systems
-* Pick Pocket
+* Theft
 * Programming
 * Research
 * Reverse Engineering
@@ -99,13 +95,13 @@ Scenarios
 
 * Open WiFi (Research Target)
 
-  * Application Software 
+  * Applications 
   * Operating Systems
   * Networks
 
 * Use A Proxy (Bot Net)
 
-  * Application Software
+  * Applications
   * Operating Systems
   * Administration
   * Networks
@@ -119,7 +115,7 @@ Scenarios
   * Debugging        
   * Networks
   * Hacking
-  * Bug Hunting
+  * Bugs
 
 * Code the Exploit (Vuln. Scan)
 
@@ -154,9 +150,9 @@ Scenarios
 * Offline Meetup (Stalk Employees)
 
   * Social Engineering
-  * False Identity
+  * Stolen Identity
   * Shoulder Surfing
-  * Pick Pocket
+  * Theft
 
 * Trojan (Offline Meetup)
 
@@ -168,7 +164,7 @@ Scenarios
 * Impersonate Employee (Stakeout Location)
 
   * Social Engineering
-  * False Identity
+  * Stolen Identity
   * Forgery        
 
 * Security Systems (Stake Out Location)
@@ -181,14 +177,14 @@ Scenarios
 * Physical Access (Security Systems / Impersonate Employee)
 
   * Operating Systems
-  * Hardware Design
+  * Hardware
   * Administration
   * Security
 
 * Two Factor Authentication (Physical Access)
 
   * Operating Systems
-  * Hardware Design
+  * Hardware
   * Security
   * Networks
   * Hacking
@@ -238,13 +234,13 @@ Scenarios
   
 * Run Program (Spawn Shell)
 
-  * Application Software
+  * Applications
   * Research
   * Administration
           
 * Find Data (Spawn Shell)
 
-  * Application Software
+  * Applications
   * Research
   * Administration
   * Databases
@@ -253,21 +249,21 @@ Scenarios
 
 * Recover Data (Spawn Shell)
 
-  * Hardware Design
+  * Hardware
   * Databases
   * Encryption
   * Forensics
 
 * Steal Data (Find Data)
 
-  * Application Software
+  * Applications
   * Databases
   * Encryption
   * Cracking
 
 * Edit Data (Steal Data)
 
-  * Application Software
+  * Applications
   * Administration
   * Databases
   * Algorithms
@@ -275,7 +271,7 @@ Scenarios
 
 * Crack Credentials (Steal Data)
 
-  * Hardware Design
+  * Hardware
   * Security
   * Algorithms
   * Encryption
@@ -284,7 +280,7 @@ Scenarios
 
 * Dump Personal Data (Find Data)
 
-  * Application Software
+  * Applications
   * Research
   * Databases
 
@@ -292,7 +288,7 @@ Scenarios
 
   * Security
   * Social Engineering
-  * False Identity
+  * Stolen Identity
   * Forgery
 
 * DoS Attack (Bot Net)
@@ -310,7 +306,17 @@ Scenarios
   
 * Delete Logs (Spawn Shell)
 
-  * Application Software
+  * Applications
+  * Operating Systems
+  * Administration
+  * Databases
+  * Hacking
+  * Forensics
+  
+  
+* Watch Logs (Spawn Shell)
+
+  * Applications
   * Operating Systems
   * Administration
   * Databases

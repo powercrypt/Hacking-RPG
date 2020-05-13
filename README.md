@@ -7,7 +7,7 @@ To make your character you will need to roll 1d6 once for each hacking attribute
 
 You score a point on the system if you roll 7 or 11. If a 2, 12, or 3 come up you lose that round. If that doesn't happen roll the dice again and get another number that becomes your point number. 
 
-Keep rolling until you hit your magic point number again, in which case you win. Or, if you roll a 7 before you hit your point number, then you lose. After the roll is decided you erase one point in the attribute you were using, and for every failure you also lose a point in paranoia. 
+Keep rolling until you hit your magic point number again, in which case you win. Or, if you roll a 7 before you hit your point number, then you lose. After the roll erase one point in the attribute you were using, and for every failure you also lose a point in paranoia. 
 
 If your paranoia drops to zero you have to run, but if you make it to the next scenario your paranoia will recharge with newly boosted confidence. If however you are forced to run you won't be able to go back to the system you were on. If you fail to run you permanetely lose one dot of run points (None if you succeed). However, your run score never recharges. If you fail to run don't have anymore points its GAME OVER
 

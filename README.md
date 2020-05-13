@@ -5,7 +5,7 @@ Rules
 
 To make your character you will need to roll 1d6 once for each hacking attribute, you can reroll your character but you have to reroll every hacking attribute if you do. When you start a scenario you have all of the relevant points available to you.The GMs job is to assign a difficulty score for the scenario, depending on the type of server. You can choose what scenario you want to run, but you have to have the prerequisites which are in parenthesis next to the name of every scenario. You decide which of the allowable attributes to use, and roll two dice to begin a scenario, yes just like street craps.
 
-You score a point on the system if you roll 7 or 11. If a 2, 12, or 3 come up you lose that round. If that doesn't happen roll the ice again and get another number that becomes your point number. 
+You score a point on the system if you roll 7 or 11. If a 2, 12, or 3 come up you lose that round. If that doesn't happen roll the dice again and get another number that becomes your point number. 
 
 Keep rolling until you hit your magic point number again, in which case you win. Or, if you roll a 7 before you hit your point number, then you lose. After the roll is decided you erase one point in the attribute you were using, and for every failure you also lose a point in paranoia. 
 
